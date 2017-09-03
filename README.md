@@ -28,8 +28,6 @@ const post = {title: 'post', author: {name: 'Stephen King'}}
 
 valueForKeyPath('author.name', post)
 //=> Stephen King
-
-
 ```
 
 **Array based key path:**
@@ -41,7 +39,6 @@ const post = {title: 'post', author: {name: 'Stephen King'}}
 
 valueForKeyPath(['author', 'name'], post)
 //=> Stephen King
-
 ```
 
 ## License
