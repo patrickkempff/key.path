@@ -1,0 +1,37 @@
+{
+  "name": "key.path",
+  "description": "Performant micro library for managing values for the derived property identified by a given key path.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/patrickkempff/key.path",
+  "author": {
+    "name": "Patrick Kempff",
+    "url": "https://github.com/patrickkempff"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:patrickkempff/key.path.git"
+  },
+  "bugs": {
+    "url": "https://github.com/patrickkempff/key.path/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/patrickkempff/key.path/blob/master/LICENSE"
+  },
+  "files": ["index.js"],
+  "main": "index.js",
+  "engines": {
+    "node": ">=6.4.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "keywords": [
+    "convert",
+    "key path",
+    "key.path"
+  ]
+}
