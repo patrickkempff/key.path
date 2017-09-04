@@ -1,7 +1,7 @@
 {
   "name": "key.path",
   "description": "Performant micro library for managing values for the derived property identified by a given key path.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/patrickkempff/key.path",
   "author": {
     "name": "Patrick Kempff",
